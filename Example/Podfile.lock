@@ -1,0 +1,16 @@
+PODS:
+  - Loopable (0.1.0)
+
+DEPENDENCIES:
+  - Loopable (from `../`)
+
+EXTERNAL SOURCES:
+  Loopable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Loopable: ad9b2340dda867982c20bb68f6009e4125cb48e3
+
+PODFILE CHECKSUM: d6fbed62d9499bcec6a5c03c469d52d8fa0a06f4
+
+COCOAPODS: 1.8.0

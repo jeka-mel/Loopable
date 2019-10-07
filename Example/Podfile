@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Loopable_Tests' do
+  pod 'Loopable', :path => '../'
+  
+  
+end

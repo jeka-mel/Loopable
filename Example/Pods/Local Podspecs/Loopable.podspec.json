@@ -1,0 +1,22 @@
+{
+  "name": "Loopable",
+  "version": "0.1.0",
+  "summary": "A short description of Loopable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jeka-mel/Loopable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jeka-mel": "iosdeveloper.mail@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jeka-mel/Loopable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Loopable/Classes/**/*"
+}
